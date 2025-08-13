@@ -1,3 +1,7 @@
 ulang javascript dasar
 tanggal 12 agustus 2025
 -mengulang operasi aritmatika ✅
+
+tanggal 13 agustus 2025
+-konversi suhu celcius, reamur ,kelvin, fahrenheit(cari semua nya dari reamur,kelvin,fahrenheit) ✅
+
