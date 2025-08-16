@@ -5,3 +5,5 @@ tanggal 12 agustus 2025
 tanggal 13 agustus 2025
 -konversi suhu celcius, reamur ,kelvin, fahrenheit(cari semua nya dari reamur,kelvin,fahrenheit) ✅
 
+tanggal 16 agustus 2025
+-ulang komparasi operator perbandingan ✅
