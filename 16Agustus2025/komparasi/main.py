@@ -19,7 +19,7 @@ print(f"{a} <= {b} = {hasil}")
 hasil = a>=b
 print(f"{a} >= {b} = {hasil}")
 
-# == akan membandingkan apakah kedua nilai tersebut memiliki nilai yang sama beserta tipe data nya
+# == akan membandingkan apakah kedua nilai tersebut memiliki nilai yang sama 
 hasil = a==b
 print(f"{a} == {b} = {hasil}")
 
