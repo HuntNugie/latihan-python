@@ -7,3 +7,7 @@ tanggal 13 agustus 2025
 
 tanggal 16 agustus 2025
 -ulang komparasi operator perbandingan ✅
+
+tanggal 18 agustus 2025
+-latihan komparasi dan logika ✅(tanggal 19 agustus 2025)
+-latihan membuat game suwit
