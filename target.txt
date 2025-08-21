@@ -11,3 +11,6 @@ tanggal 16 agustus 2025
 tanggal 18 agustus 2025
 -latihan komparasi dan logika ✅(tanggal 19 agustus 2025)
 -latihan membuat game suwit ✅(tanggal 19 agustus 2025)
+
+tanggal 21 agustus 2025
+-latihan assigment(penugasan) ✅
