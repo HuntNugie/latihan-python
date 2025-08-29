@@ -17,3 +17,7 @@ tanggal 21 agustus 2025
 
 tanggal 22 agustus 2025
 -latihan tipe data string ✅
+
+tanggal 29 agustus 2025
+-latihan manipulasi string dengan method ✅
+
