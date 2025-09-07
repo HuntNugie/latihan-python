@@ -21,3 +21,7 @@ tanggal 22 agustus 2025
 tanggal 29 agustus 2025
 -latihan manipulasi string dengan method ✅
 
+tanggal 7 september 2025
+-latihan kontrol alur data if statement ✅ 
+-latihan match case
+
