@@ -25,3 +25,7 @@ tanggal 7 september 2025
 -latihan kontrol alur data if statement ✅ 
 -latihan match case ✅
 -ternary operator ✅
+
+tanggal 8 september 2025
+-for loop ✅
+-for string
