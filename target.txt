@@ -35,3 +35,7 @@ tanggal 11 september 2025
 -while and for else ✅
 -nested loop ✅
 -continue and break ✅
+
+tanggal 13 september 2025
+-list ✅
+-tuple 
